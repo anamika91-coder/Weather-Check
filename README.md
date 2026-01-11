@@ -13,9 +13,6 @@ A simple weather web application that shows real-time weather data based on user
 - Displays temperature and weather condition
 - Clean and responsive UI
 
-## 📸 Screenshot
-(Add screenshot here)
-
 ## 🔗 Live Demo
 (Optional – GitHub Pages link)
 
